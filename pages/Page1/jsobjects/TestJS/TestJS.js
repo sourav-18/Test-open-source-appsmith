@@ -2,7 +2,8 @@ export default {
 	myVar1: [],
 	myVar2: {},
 	myFun1 () {
-		//this is function
+		//this is function 
+		//chage from github
 		//	write code here
 		//	this.myVar1 = [1,2,3]
 	},
